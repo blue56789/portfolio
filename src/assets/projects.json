@@ -1,0 +1,18 @@
+{
+    "projects": [
+        {
+            "name": "Real-Time Messaging App",
+            "img": "./chat-app.png",
+            "description": "My BCA final year project. A real-time messaging app with file sharing, emojis, gifs and user online status.",
+            "link": "https://chat-app-rk5h.onrender.com",
+            "github": "https://github.com/blue56789/chat-app"
+        },
+        {
+            "name": "Contact Form",
+            "img": "./contact-form.png",
+            "description": "Solution to a challenge on Frontend Mentor.",
+            "link": "https://blue56789.github.io/fm-contact-form/",
+            "github": "https://github.com/blue56789/fm-contact-form"
+        }
+    ]
+}
